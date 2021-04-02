@@ -1,0 +1,42 @@
+{
+	"pokemon": [
+		{
+			"id": 0,
+			"name": "Pikachu",
+			"types": ["electric"],
+			"weight": 60,
+			"base_experience": 112,
+			"abilities": [
+				[
+					{
+						"id": 0,
+						"name": "static"
+					},
+					{
+						"id": 1,
+						"name": "lightning-rod"
+					}
+				]
+			]
+		},
+		{
+			"id": 1,
+			"name": "Bulbasaur",
+			"types": ["grass", "poison"],
+			"weight": 69,
+			"base_experience": 64,
+			"abilities": [
+				[
+					{
+						"id": 0,
+						"name": "overgrow"
+					},
+					{
+						"id": 1,
+						"name": "chlorophyll"
+					}
+				]
+			]
+		}
+	]
+}
